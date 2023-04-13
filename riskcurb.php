@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: WP with vue-tailwind-vite
- * Plugin URI: http://wpminers.com/
- * Description: A sample Wordpress plugin to implement Vue with tailwind.
- * Author: Hasanuzzaman Shamim
- * Author URI: http://hasanuzzaman.com/
+ * Plugin Name: RiskCurb App
+ * Plugin URI: http://rskcurb.com/
+ * Description: Pressed Emails.
+ * Author: Gene Piki
+ * Author URI: http://riskcurb.com/
  * Version: 1.0.5
  */
 define('WPM_URL', plugin_dir_url(__FILE__));
